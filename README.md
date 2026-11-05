@@ -37,6 +37,22 @@ I'm continuously improving my skills through the 42 curriculum and personal proj
 
 ## 🧠 Selected Engineering Projects
 
+### 📱 Swifty Companion
+
+A mobile-friendly application developed as part of the 42 curriculum, using the 42 API to retrieve and display student information.
+
+**Key features:**
+
+- 42 API integration
+- OAuth2 authentication
+- Student profile information
+- User search
+- Display of cursus and project information
+- Skills and evaluation information
+- API data retrieval and presentation
+
+**Tech:** JavaScript · React Native · 42 API · OAuth2
+
 ### 🎮 ft_transcendence
 
 A full-stack multiplayer web application developed as part of the 42 Common Core.
@@ -53,6 +69,23 @@ A music guessing platform featuring real-time gameplay and social interactions.
 - Real-time communication and event handling
 
 **Tech:** Python · Django · Django Channels · WebSockets · JavaScript · Docker
+
+---
+### 🐱 Kitty Family Blog
+
+A personal full-stack web development project built to practise Laravel and backend development.
+
+**Key features:**
+
+- User registration and authentication
+- Blog post creation and management
+- Categories and tags
+- Comments and likes
+- User profiles
+- Database relationships
+- CRUD operations
+
+**Tech:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
 
 ---
 
@@ -141,24 +174,6 @@ A small 2D game developed using the MiniLibX graphics library.
 - Path validation
 
 **Tech:** C · MiniLibX · Linux · XPM
-
----
-
-### 🐱 Kitty Family Blog
-
-A personal full-stack web development project built to practise Laravel and backend development.
-
-**Key features:**
-
-- User registration and authentication
-- Blog post creation and management
-- Categories and tags
-- Comments and likes
-- User profiles
-- Database relationships
-- CRUD operations
-
-**Tech:** PHP · Laravel · MySQL · HTML · CSS · JavaScript
 
 ---
 
